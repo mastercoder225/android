@@ -1,1 +1,1 @@
-android app = layout + java code + extra resource
+android app = layout + activity + extra resource
